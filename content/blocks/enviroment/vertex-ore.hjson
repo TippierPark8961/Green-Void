@@ -1,0 +1,8 @@
+type: OreBlock
+itemDrop: vertex
+name: Pudim
+playerUnmineable: true
+oreDefault: true
+variants: 3
+oreScale: 30
+oreThreshold: 0.95

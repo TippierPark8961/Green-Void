@@ -1,0 +1,14 @@
+name: Vertex
+type: Material
+description: A super radioactive green resource
+color: 035e1b
+radioactivity: 9
+hardness: 5
+flammability: 0
+explosiveness: 0
+research:{
+        parent: thorium,
+        requirements: [
+        thorium/200
+        ]
+}

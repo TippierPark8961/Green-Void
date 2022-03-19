@@ -1,0 +1,43 @@
+{
+	"name": "Vertex Press",
+	"type": "GenericSmelter",
+	"description": "Transforms thorium and phase into verteby concentrating the radiation",
+	"hasItems": true,
+        "sync": true
+	"hasLiquids": false,
+	"hasPower": true,
+	"itemCapacity": 50,
+	"liquidCapacity": 0,
+	"solid": true,
+	"health": 250,
+	"size": 2,
+        "flameColor": 52ab5b,
+	"activeSound": "none",
+	"activeSoundVolume": 0.5,
+	"idleSound": "machine",
+	"idleSoundVolume": 0.5,
+	"requirements": [
+		{ "item": "lead", "amount": 200 },
+		{ "item": "silicon", "amount": 250 },
+		{ "item": "thorium", "amount": 300 },
+		{ "item": "phase-fabric", "amount": 150 },
+		{ "item": "surge-alloy", "amount": 75 },
+	],
+	"category": "crafting",
+	"research": "phase-weaver",
+	"outputItem": {"item": "vertex", "amount": 1},
+	"craftTime": 120,
+	"craftEffect": "smeltsmoke",
+	"updateEffect": "none",
+	"updateEffectChance": 0.04,
+	"consumes": {
+		"power": 2.5,
+		"items": {
+			"items": [
+				{ "item": "thorium", "amount": 5 },
+				{ "item": "phase-fabric", "amount": 1 },
+				
+			]
+		},
+	},
+}

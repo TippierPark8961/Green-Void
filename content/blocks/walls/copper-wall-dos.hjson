@@ -1,0 +1,10 @@
+name: Copper wall DOS
+description: Do things that normal walls do
+type: Wall
+health: 350
+size: 1
+requirements: [
+  copper/12
+]
+category: defense
+research: titanium-wall-large

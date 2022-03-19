@@ -1,0 +1,42 @@
+{
+	"name": "Industrial Silicon Furnace",
+	"type": "GenericSmelter",
+	"description": "jaaj",
+	"hasItems": true,
+        "sync": true,
+	"hasLiquids": false,
+	"hasPower": true,
+	"itemCapacity": 100,
+	"liquidCapacity": 0,
+	"solid": true,
+	"health": 250,
+	"size": 4,
+        "flameColor": fff099,
+	"activeSound": "none",
+	"activeSoundVolume": 0.5,
+	"idleSound": "machine",
+	"idleSoundVolume": 0.5,
+	"requirements": [
+		{ "item": "lead", "amount": 500 },
+		{ "item": "silicon", "amount": 550 },
+		{ "item": "titanium", "amount": 550 },
+		{ "item": "copper", "amount": 600 },
+	],
+	"category": "crafting",
+	"research": "silicon-crucible",
+	"outputItem": {"item": "silicon", "amount": 20},
+	"craftTime": 60,
+	"craftEffect": "smeltsmoke",
+	"updateEffect": "none",
+	"updateEffectChance": 0.04,
+	"consumes": {
+		"power": 5,
+		"items": {
+			"items": [
+				{ "item": "sand", "amount": 10 },
+				{ "item": "pyratite", "amount": 6 },
+				
+			]
+		},
+	},
+}

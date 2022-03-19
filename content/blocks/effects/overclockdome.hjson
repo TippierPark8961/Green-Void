@@ -1,0 +1,26 @@
+type: OverdriveProjector
+health: 900
+"localizedName": "Overclock Dome",
+size: 3
+consumes: {
+power: 25
+items: {
+items: [
+vertex/1
+]
+booster: true
+optional: true
+}} 
+phaseColor: 2b6333
+color:0f961e
+range: 160
+speedBoost: 2.0
+speedBoostPhase: 8.0
+phaseRangeBoost: 80
+requirements: [
+titanium/200
+vertex/150
+thorium/100
+]
+category: effect
+research: overdrive-projector

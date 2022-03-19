@@ -1,0 +1,44 @@
+name: Mega drill
+description: Mines enormous ammounts of resources when boosted by cryofluid
+type: Drill
+size: 5
+health: 450
+hasItems: true
+hasLiquids: true
+hasPower: true
+itemCapacity: 15
+liquidCapacity: 30
+rotateSpeed: 4
+updateEffectChance: 0.05
+warmupSpeed: 0.0478
+expanded: true
+
+requirements: [
+    copper/1500
+    graphite/650
+    titanium/850
+    thorium/520
+    silicon/1000
+    lead/750
+    vertex/500
+]
+consumes: {
+    liquid: {
+        liquid: cryofluid
+        amount: 0.3
+        booster: true
+        optional: true
+    }
+    power: 37.5
+}
+
+drawMineItem: true
+rotateSpeed: 2.25
+liquidBoostIntensity: 5.0
+drawRim: true
+heatColor: 87ceeb
+drillTime: 70
+tier: 8
+
+category: production
+research: blast-drill
