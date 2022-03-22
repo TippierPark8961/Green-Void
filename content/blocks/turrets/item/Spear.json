@@ -24,7 +24,7 @@
     "hasPower": false,
     "ammoTypes": {
 	"blast-compound": {
-	"type": "ArtilleryBulletType",
+	"type": "BasicBulletType",
         "lifetime": 250,
 	"ammoMultiplier": 4,
         "burstSpacing": 1.5,
