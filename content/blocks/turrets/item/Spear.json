@@ -9,7 +9,7 @@
     "recoilAmount": 5,
     "range": 400,
     "inaccuracy": 0,
-    "shots": 10,
+    "shots": 5,
     "spread": 8,
     "alternate": true,
     "coolantMultiplier": 5,
