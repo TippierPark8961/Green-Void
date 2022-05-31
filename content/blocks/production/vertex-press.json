@@ -6,11 +6,11 @@
         "sync": true
 	"hasLiquids": false,
 	"hasPower": true,
-	"itemCapacity": 50,
+	"itemCapacity": 10,
 	"liquidCapacity": 0,
 	"solid": true,
 	"health": 250,
-	"size": 2,
+	"size": 3,
         "flameColor": 52ab5b,
 	"activeSound": "none",
 	"activeSoundVolume": 0.5,
