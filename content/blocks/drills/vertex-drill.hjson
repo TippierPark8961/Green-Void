@@ -8,9 +8,9 @@ hasLiquids: true
 hasPower: true
 itemCapacity: 15
 liquidCapacity: 30
-rotateSpeed: 4
-updateEffectChance: 0.05
-warmupSpeed: 0.0478
+rotateSpeed: 2
+updateEffectChance: 0.03
+warmupSpeed: 0.4
 expanded: true
 
 requirements: [
