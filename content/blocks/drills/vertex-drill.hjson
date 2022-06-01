@@ -9,7 +9,7 @@ hasPower: true
 itemCapacity: 15
 liquidCapacity: 30
 rotateSpeed: 2
-updateEffect: pulverizeMedium
+updateEffect: nuclearShockwave
 updateEffectChance: 0.03
 warmupSpeed: 0.4
 expanded: true
