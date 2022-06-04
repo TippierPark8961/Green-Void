@@ -9,7 +9,7 @@ hasPower: true
 itemCapacity: 15
 liquidCapacity: 30
 rotateSpeed: 2
-updateEffect: mineHuge
+updateEffect: mine
 updateEffectChance: 0.3
 warmupSpeed: 1.2
 expanded: true
