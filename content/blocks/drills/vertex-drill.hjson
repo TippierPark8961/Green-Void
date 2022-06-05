@@ -37,7 +37,7 @@ drawMineItem: true
 liquidBoostIntensity: 5.0
 drawRim: true
 heatColor: 87ceeb
-outline: false
+outLine: false
 drillTime: 70
 tier: 8
 
