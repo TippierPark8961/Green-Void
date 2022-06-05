@@ -11,7 +11,7 @@ liquidCapacity: 30
 rotateSpeed: 6
 updateEffect: mine
 updateEffectChance: 0.3
-warmupSpeed: 4
+warmupSpeed: 0.04
 expanded: true
 
 requirements: [
