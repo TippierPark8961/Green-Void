@@ -8,10 +8,10 @@ hasLiquids: true
 hasPower: true
 itemCapacity: 15
 liquidCapacity: 30
-rotateSpeed: 2
+rotateSpeed: 6
 updateEffect: mine
 updateEffectChance: 0.3
-warmupSpeed: 1.2
+warmupSpeed: 4
 expanded: true
 
 requirements: [
@@ -34,10 +34,10 @@ consumes: {
 }
 
 drawMineItem: true
-rotateSpeed: 2.25
 liquidBoostIntensity: 5.0
 drawRim: true
 heatColor: 87ceeb
+outline: false
 drillTime: 70
 tier: 8
 
