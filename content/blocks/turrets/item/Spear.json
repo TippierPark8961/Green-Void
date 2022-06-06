@@ -51,8 +51,6 @@
                         "backColor": "Pal.plastaniumBack",
                         "frontColor": "Pal.plastaniumFront",
                         "despawnEffect": "Fx.none",
-                    
-		     }
 },
     "requirements": [
         "titanium/500",
