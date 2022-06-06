@@ -48,7 +48,7 @@
                         "shrinkY": 1,
                         "lifetime": 15,
                         "backColor": "Pal.plastaniumBack",
-                        "frontColor": "Pal.plastaniumFront,
+                        "frontColor": "Pal.plastaniumFront",
                         "despawnEffect": "Fx.none",
                     }}
 	
