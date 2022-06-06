@@ -42,14 +42,14 @@
         "width": 15,
         "height": 90,
 	"fragBullets": 1,
-	"fragBullet":{ "BasicBulletType"("2.5f", 12, "bullet"){{
-                        "width = 10f;
-                        "height = 12f;
-                        "shrinkY = 1f;
-                        "lifetime = 15f;
-                        "backColor = Pal.plastaniumBack;
-                        "frontColor = Pal.plastaniumFront;
-                        "despawnEffect = Fx.none;
+	"fragBullet":{ "BasicBulletType"{{
+                        "width" = 10;
+                        "height" = 12;
+                        "shrinkY" = 1;
+                        "lifetime" = 15;
+                        "backColor" = "Pal.plastaniumBack";
+                        "frontColor" = "Pal.plastaniumFront";
+                        "despawnEffect" = "Fx.none";
                     }}
 	
 },
