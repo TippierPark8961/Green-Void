@@ -51,7 +51,8 @@
                         "backColor": "Pal.plastaniumBack",
                         "frontColor": "Pal.plastaniumFront",
                         "despawnEffect": "Fx.none",
-},
+	}}
+	},
     "requirements": [
         "titanium/500",
         "silicon/350",
@@ -62,4 +63,3 @@
     ],
     "category": "turret",
     "research": "duo"
-}
