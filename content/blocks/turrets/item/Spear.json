@@ -43,7 +43,7 @@
         "height": 90,
 	"fragBullets": 1,
 	"fragBullet":{ 
-			"type": "BasicBulletType":
+			"type": "BasicBulletType",
                         "width": 10,
                         "height": 12,
                         "shrinkY": 1,
