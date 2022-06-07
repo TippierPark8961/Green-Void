@@ -4,6 +4,7 @@
     "description": "rdrgrdggrdfgfdgfdgfdvdcd",
     "localizedName": "Spear",
     "size": 3,
+    "lifetime": 50,
     "health": 1980,
     "reloadTime": 40,
     "recoilAmount": 5,
@@ -25,7 +26,7 @@
     "ammoTypes": {
 	"blast-compound": {
 	"type": "ArtilleryBulletType",
-        "lifetime": 250,
+        "lifetime": 50,
 	"ammoMultiplier": 4,
         "burstSpacing": 1.5,
         "damage": 110,
@@ -44,7 +45,7 @@
 	"fragBullets": 1,
 	"fragBullet":{ 
 			"type": "ArtilleryBulletType",
-			"lifetime": 250,
+			"lifetime": 50,
 			"ammoMultiplier": 4,
 			"burstSpacing": 1.5,
    		        "damage": 110,
