@@ -41,7 +41,7 @@
         "bulletSprite": "shell",
         "hitEffect": "explosion",
         "width": 15,
-        "height": 90,
+        "height": 20,
 	"fragBullets": 1,
 	"fragBullet":{ 
 			"type": "ArtilleryBulletType",
@@ -60,7 +60,7 @@
    		        "bulletSprite": "shell",		
    		        "hitEffect": "explosion",
     		        "width": 15,
-    		        "height": 90,
+    		        "height": 20,
 		"fragBullets": 1,
 	"fragBullet":{ 
 			"type": "ArtilleryBulletType",
@@ -79,7 +79,7 @@
    		        "bulletSprite": "shell",		
    		        "hitEffect": "explosion",
     		        "width": 15,
-    		        "height": 90,
+    		        "height": 20,
 	}
 			}
 		}
