@@ -60,6 +60,26 @@
    		        "hitEffect": "explosion",
     		        "width": 15,
     		        "height": 90,
+		"fragBullets": 1,
+	"fragBullet":{ 
+			"type": "BasicBulletType",
+			"lifetime": 250,
+			"ammoMultiplier": 4,
+			"burstSpacing": 1.5,
+   		        "damage": 110,
+		        "frontColor": "ffd900",
+   		        "homingPower": 10000,
+     		        "homingRange": 250,
+    		        "pierce": true,
+    		        "speed": 4,
+			"backColor": "ffffff",
+   		        "hitShake": 3,		
+  		        "hitSound": "explosion",
+   		        "bulletSprite": "shell",		
+   		        "hitEffect": "explosion",
+    		        "width": 15,
+    		        "height": 90,
+	}
 			}
 		}
 	},
