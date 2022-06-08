@@ -17,12 +17,12 @@ rotateSpeed: 6
     "length": 15,
     "cone": 360,
     "strokeFrom": 2,
-    "lenFrom": 15,
-    "lenTo": 0,
+    "lenFrom": 2,
+    "lenTo": 15,
     "colorFrom": "6CE364",
     "colorTo": "6CE364"
 	},
-updateEffectChance: 0.3
+updateEffectChance: 0.01
 warmupSpeed: 0.004
 expanded: true
 
