@@ -16,7 +16,7 @@ rotateSpeed: 6
     "lifetime": 15,
     "length": 15,
     "cone": 360,
-    "strokeFrom": 10,
+    "strokeFrom": 1,
     "lenFrom": 10,
     "lenTo": 10,
     "colorFrom": "069E22",
