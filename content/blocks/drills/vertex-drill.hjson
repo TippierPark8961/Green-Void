@@ -18,7 +18,7 @@ rotateSpeed: 6
     "cone": 360,
     "strokeFrom": 2,
     "lenFrom": 2,
-    "lenTo": 2,
+    "lenTo": 0,
     "colorFrom": "069E22",
     "colorTo": "069E22"
 	},
