@@ -13,7 +13,7 @@ rotateSpeed: 6
 	"type": "ParticleEffect",
     "line": true,
     "particles": 8,
-    "lifetime": 5,
+    "lifetime": 10,
     "length": 15,
     "cone": 360,
     "strokeFrom": 2,
