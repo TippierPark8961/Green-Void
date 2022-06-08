@@ -12,12 +12,12 @@ rotateSpeed: 6
 	"updateEffect": {
 	"type": "ParticleEffect",
     "line": true,
-    "particles": 8,
+    "particles": 3,
     "lifetime": 10,
     "length": 15,
     "cone": 360,
     "strokeFrom": 2,
-    "lenFrom": 20,
+    "lenFrom": 15,
     "lenTo": 0,
     "colorFrom": "6CE364",
     "colorTo": "6CE364"
