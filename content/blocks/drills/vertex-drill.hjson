@@ -15,7 +15,7 @@ rotateSpeed: 6
     "particles": 8,
     "lifetime": 15,
     "length": 15,
-    "cone": 90,
+    "cone": 360,
     "strokeFrom": 10,
     "lenFrom": 10,
     "lenTo": 10,
