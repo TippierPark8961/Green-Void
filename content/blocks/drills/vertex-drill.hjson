@@ -17,7 +17,7 @@ rotateSpeed: 6
     "length": 15,
     "cone": 360,
     "strokeFrom": 1,
-    "lenFrom": 10,
+    "lenFrom": 1,
     "lenTo": 10,
     "colorFrom": "069E22",
     "colorTo": "3D3D3D"
