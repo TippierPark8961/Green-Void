@@ -22,7 +22,7 @@ rotateSpeed: 6
     "colorFrom": "6CE364",
     "colorTo": "6CE364"
 	},
-updateEffectChance: 0.05
+updateEffectChance: 0.15
 warmupSpeed: 0.004
 expanded: true
 
