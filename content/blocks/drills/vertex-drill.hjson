@@ -19,8 +19,8 @@ rotateSpeed: 6
     "strokeFrom": 2,
     "lenFrom": 2,
     "lenTo": 0,
-    "colorFrom": "069E22",
-    "colorTo": "069E22"
+    "colorFrom": "73FFAEFF",
+    "colorTo": "73FFAEFF"
 	},
 updateEffectChance: 0.3
 warmupSpeed: 0.004
