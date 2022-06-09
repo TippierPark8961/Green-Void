@@ -25,7 +25,7 @@
     "hasPower": false,
     "ammoTypes": {
 	"blast-compound": {
-	"type": "ArtilleryBulletType",
+	"type": "BasicBulletType",
         "lifetime": 50,
 	"ammoMultiplier": 4,
         "burstSpacing": 1.5,
@@ -44,7 +44,7 @@
         "height": 20,
 	"fragBullets": 10,
 	"fragBullet":{ 
-			"type": "ArtilleryBulletType",
+			"type": "BasicBulletType",
 			"lifetime": 50,
 			"ammoMultiplier": 4,
 			"burstSpacing": 1.5,
@@ -63,7 +63,7 @@
     		        "height": 20,
 			"fragBullets": 10,
 			"fragBullet":{ 
-			"type": "ArtilleryBulletType",
+			"type": "BasicBulletType",
 			"lifetime": 250,
 			"ammoMultiplier": 4,
 			"burstSpacing": 1.5,
